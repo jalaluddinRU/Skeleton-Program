@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace console2
+namespace local_repo
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Maksudul Hasan");
+            Console.WriteLine("Hello World!");
         }
     }
 }
