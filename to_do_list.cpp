@@ -17,13 +17,13 @@ int main()
     int i,length,command;
     cin>>command;
     if(command==1){
-    gets(work);
-    get_data();
-    strcat(data,work);
-    length=strlen(data);
-    data[length]='\n';
-    write_data();
-    getchar();
+        gets(work);
+    	get_data();
+    	strcat(data,work);
+    	length=strlen(data);
+    	data[length]='\n';
+    	write_data();
+    	getchar();
     }
     else if(command==2) output();
     return 0;
