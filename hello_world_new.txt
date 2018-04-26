@@ -1,7 +1,0 @@
-#include<stdio.h>
-int main()
-{
-	printf("Hello world\n");
-	printf("First time when i print "hello word" i miss understood the word because of anxiety attack with "hello word",\n so unlike most other porgrammer my first code didn't start with "hello world\n");
-	return 0;
-}
